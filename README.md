@@ -7,11 +7,11 @@ Earthquake Visual is an application with an interactive map displaying earthquak
 
 
 
-> ![Application so far](visual.PNG)
+> ![Application so far](markers_with_color.png)
 
 ### Todo
 * Create customized markers
-    * Based on size
+    * Based on magnitude <-- DONE
     * Based on location (land or sea)
 * A legend to determine different markers
 * A hover function over markers for more information
